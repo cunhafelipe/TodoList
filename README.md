@@ -8,7 +8,8 @@
 - Marcar tarefas como concluídas
 - Editar o conteúdo das tarefas
 - Remover tarefas da lista
-- Tecnologias Utilizadas
+
+# Tecnologias Utilizadas
 - React.js
 - Vite
 - JavaScript
